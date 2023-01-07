@@ -1,0 +1,8 @@
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\bin\Debug\factorial_ calculation.exe.config
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\bin\Debug\factorial_ calculation.exe
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\bin\Debug\factorial_ calculation.pdb
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\obj\Debug\factorial_ calculation.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\obj\Debug\factorial_ calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\obj\Debug\factorial_ calculation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\obj\Debug\factorial_ calculation.exe
+C:\Users\ASUS ROG STRIX\source\repos\factorial_ calculation\factorial_ calculation\obj\Debug\factorial_ calculation.pdb
